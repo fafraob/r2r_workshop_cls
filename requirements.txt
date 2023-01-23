@@ -1,0 +1,11 @@
+ipython==8.8.0
+notebook==6.5.2
+numpy==1.24.1
+onnx==1.13.0
+onnxruntime-gpu==1.13.1
+scikit-learn==1.2.0
+timm==0.6.12
+torch==1.13.1
+torchvision==0.14.1
+matplotlib==3.6.3
+ipywidgets==8.0.4
